@@ -1,0 +1,67 @@
+.bg-1 img
+{
+	 width: 100%;
+  height: auto;
+	position: relative;
+	padding-bottom: 35px;
+
+}
+.bg-1 span
+{
+	position: absolute;
+	font-size: 75px;
+	color: purple;
+  text-align: center;
+  left: 0;
+  right: 0;
+  top: 450px;
+  letter-spacing: 3px;
+}
+
+.bg-1 p
+{
+	position: absolute;
+	top: 537px;
+	left: 0px;
+	right: 0px;
+	font-size: 25px;
+	color: yellow;
+	letter-spacing: 3px;	
+	 text-align: center;
+  
+}
+@media screen and (max-width: 800px) {
+  .bg-1 span
+{
+	
+	top: 273px;
+	font-size: 33px;
+	left: 0px;
+	right: 0px;
+	
+}
+.bg-1 p
+{
+	
+	top: 321px;
+	left: 0px;
+	right: 0px;
+	font-size: 13px;
+	
+}
+.bg-1 img
+{
+	 width: 100%;
+  	height: auto;
+}
+.image-fluid
+{
+	width: 100%;
+  	height: auto;
+}
+#containimage
+{
+	width: 100%;
+  	height: auto;
+}
+}
